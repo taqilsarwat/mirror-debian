@@ -17,4 +17,4 @@ deb https://security.debian.org/debian-security/ bookworm-security contrib main 
 deb http://deb.debian.org/debian bullseye main contrib non-free</code></pre>
 
 
-Lokasi mirror : /etc/apt/sources.ist
+Lokasi mirror : /etc/apt/sources.list
